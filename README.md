@@ -1,4 +1,4 @@
-# AI Driven Retail Intelligence and Automated Product Optimization Platform
+# AI Driven Retail Intelligence and Automated Product Optimization 
 
 A unified AI-powered ecosystem for e-commerce sellers to automate listing creation, validate content quality, and monitor sales performance.
 
